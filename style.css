@@ -613,18 +613,6 @@ p {
 @media (max-width: 1000px){ /* Especificações de media query */
 
 
-    main .container-main div{
-        margin: auto;
-    }
-    
-    main .container-main img{ /* imagem oculta quando tá no mobile */
-        display: none;
-    }
-    
-    h2 {
-        margin-left: 50px; /* centralizado tela menor */
-    }
-    
     div h3 {
         margin-left: 50px;
     }
@@ -641,16 +629,4 @@ p {
     input {
         margin:12px; /* espaçamento entre itens */
     }
-    }
-    
-    
-    @media (min-height: 631px) {
-        .container-menu{
-            display: none; /* não será exibido */
-        }
-    }
-    @media (max-width: 1000px) {
-        .container {
-            padding: 0px 20px;
-        }
     }
