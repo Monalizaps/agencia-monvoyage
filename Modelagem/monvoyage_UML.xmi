@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <uml:Model xmi:id="_4clo8C0gEe2TQ77rRj9fOQ" name="monvoyage">
+    <xmi:Extension extender="http://www.eclipse.org/emf/2002/Ecore">
+      <eAnnotations xmi:id="_4clo8C0gEe2TQ77rRj9fOQ0" source="genmymodel">
+        <details xmi:id="_4clo8C0gEe2TQ77rRj9fOQ00" key="uuid" value="_4clo8C0gEe2TQ77rRj9fOQ"/>
+        <details xmi:id="_4clo8C0gEe2TQ77rRj9fOQ01" key="author" value="Monaliza Pereira"/>
+      </eAnnotations>
+    </xmi:Extension>
+    <packageImport xmi:id="_4clo8S0gEe2TQ77rRj9fOQ" importingNamespace="_4clo8C0gEe2TQ77rRj9fOQ">
+      <xmi:Extension extender="http://www.eclipse.org/emf/2002/Ecore">
+        <eAnnotations xmi:id="_4clo8S0gEe2TQ77rRj9fOQ0" source="genmymodel">
+          <details xmi:id="_4clo8S0gEe2TQ77rRj9fOQ00" key="uuid" value="_4clo8S0gEe2TQ77rRj9fOQ"/>
+        </eAnnotations>
+      </xmi:Extension>
+      <importedPackage href="http://www.omg.org/spec/UML/20131001/PrimitiveTypes.xmi#/"/>
+    </packageImport>
+  </uml:Model>
+</xmi:XMI>
